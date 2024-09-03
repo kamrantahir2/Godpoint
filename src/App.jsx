@@ -1,4 +1,5 @@
 import { useState } from "react";
+import Homepage from "./Homepage/Homepage.jsx";
 
 import "./App.css";
 
@@ -7,9 +8,7 @@ function App() {
 
   return (
     <div>
-      <div>
-        <h1 className="">Test</h1>
-      </div>
+      <Homepage />
     </div>
   );
 }
