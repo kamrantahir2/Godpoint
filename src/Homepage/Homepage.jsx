@@ -2,7 +2,7 @@ import Hero from "./Hero.jsx";
 
 const Homepage = () => {
   return (
-    <div className="">
+    <div className="h-full">
       <Hero />
     </div>
   );
