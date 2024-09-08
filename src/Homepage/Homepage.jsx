@@ -1,11 +1,13 @@
 import Hero from "./Hero.jsx";
-import WhoAreWe from "./WhoAreWe.jsx";
+import WhatWeOffer from "./WhatWeOffer.jsx";
+import About from "./About.jsx";
 
 const Homepage = () => {
   return (
     <div className="h-full">
       <Hero />
-      <WhoAreWe />
+      <About />
+      <WhatWeOffer />
     </div>
   );
 };
