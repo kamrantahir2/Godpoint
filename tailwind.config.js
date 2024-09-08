@@ -5,6 +5,7 @@ export default {
     extend: {
       fontFamily: {
         crimson: ["Crimson Text", "Arial", "sans-serif"],
+        livvic: ["Livvic", "Arial", "sans-serif"],
       },
     },
   },
