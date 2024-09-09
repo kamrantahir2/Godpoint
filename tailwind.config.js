@@ -7,6 +7,7 @@ export default {
         crimson: ["Crimson Text", "Arial", "sans-serif"],
         livvic: ["Livvic", "Arial", "sans-serif"],
         cinzel: ["Cinzel", "Arial", "sans-serif"],
+        oswald: ["Oswald", "Arial", "sans-serif"],
       },
     },
   },
