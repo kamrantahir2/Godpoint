@@ -3,8 +3,10 @@ const About = () => {
     <div className="my-3">
       <div className="w-5/12 h-2 bg-red-700 m-auto  rounded full my-6"></div>
 
-      <h2 className="text-4xl underline mb-8 text-center">
-        Welcome to GodPoint Businesses
+      <h2 className="text-4xl underline mb-8 text-center font-cinzel">
+        Welcome to{" "}
+        <span className="font-cinzel text-5xl text-red-700">GodPoint </span>{" "}
+        <span className="text-5xl font-medium">Businesses</span>
       </h2>
       <div className="grid grid-cols-2 m-auto">
         <div className="text-center font-livvic w-8/12 m-auto">
