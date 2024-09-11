@@ -1,4 +1,4 @@
-const About = () => {
+const Welcome = () => {
   return (
     <div className="my-3">
       <div className="w-5/12 h-1 bg-red-700 m-auto  rounded-full my-6"></div>
@@ -22,4 +22,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Welcome;
