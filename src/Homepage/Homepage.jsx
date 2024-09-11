@@ -1,6 +1,7 @@
 import Hero from "./Hero.jsx";
-import WhatWeOffer from "./WhatWeOffer.jsx";
+import WhatWeDo from "./WhatWeDo.jsx";
 import About from "./About.jsx";
+import WhatWeOffer from "./WhatWeOffer.jsx";
 
 const Homepage = () => {
   return (
@@ -8,6 +9,7 @@ const Homepage = () => {
       <Hero />
       <About />
       <WhatWeOffer />
+      <WhatWeDo />
     </div>
   );
 };
