@@ -8,7 +8,7 @@ const WhatWeDo = () => {
         </div> */}
         <div className=" order-first font-livvic">
           <div className=" text-center rounded-xl p-12 ">
-            <h2 className="text-4xl font-semibold  m-auto my-8 font-cinzel">
+            <h2 className="text-5xl font-semibold  m-auto my-8 font-cinzel">
               What We <span className="text-red-700 font-bold">Do</span>
             </h2>
             <div className="w-5/12 bg-red-600 h-1 m-auto "></div>
@@ -19,13 +19,13 @@ const WhatWeDo = () => {
           </div>
 
           <div className="mx-12 grid grid-cols-3 gap-12">
-            <div className="h-[80vh] border-2 border-dashed border-black bg-black rounded-3xl text-white">
+            <div className="h-[80vh] border-2 shadow-2xl border-red-700  rounded-3xl text-black">
               <img
                 src="./room.jpg"
                 className="rounded-t-3xl border-b-4 border-red-700"
                 alt=""
               />
-              <h3 className="text-center mt-4 text-2xl font-cinzel font-medium">
+              <h3 className="text-center mt-4 text-3xl font-cinzel font-bold">
                 Wardrobe
               </h3>
 
@@ -36,19 +36,19 @@ const WhatWeDo = () => {
               </h4>
 
               <div className="flex">
-                <button className="m-auto mt-12 bg-red-700 font-cinzel font-medium text-lg">
+                <button className="m-auto mt-12 bg-red-700 font-cinzel font-semibold text-lg text-white">
                   Learn More
                 </button>
               </div>
             </div>
-            <div className="h-[80vh] border-2 border-dashed border-black bg-black rounded-3xl text-white">
+            <div className="h-[80vh] border-2 shadow-2xl border-red-700  rounded-3xl text-black">
               <img
-                src="./room.jpg"
+                src="./heroFurniture.jpg"
                 className="rounded-t-3xl border-b-4 border-red-700"
                 alt=""
               />
-              <h3 className="text-center mt-4 text-2xl font-cinzel font-medium">
-                Wardrobe
+              <h3 className="text-center mt-4 text-3xl font-cinzel font-bold">
+                Furniture
               </h3>
 
               <h4 className="mt-6 px-8 font-livvic text-xl text-center">
@@ -58,19 +58,19 @@ const WhatWeDo = () => {
               </h4>
 
               <div className="flex">
-                <button className="m-auto mt-12 bg-red-700 font-cinzel font-medium text-lg">
+                <button className="m-auto mt-12 bg-red-700 font-cinzel font-semibold text-lg text-white">
                   Learn More
                 </button>
               </div>
             </div>
-            <div className="h-[80vh] border-2 border-dashed border-black bg-black rounded-3xl text-white">
+            <div className="h-[80vh] border-2 shadow-2xl border-red-700  rounded-3xl text-black">
               <img
-                src="./room.jpg"
+                src="./kitchen.jpg"
                 className="rounded-t-3xl border-b-4 border-red-700"
                 alt=""
               />
-              <h3 className="text-center mt-4 text-2xl font-cinzel font-medium">
-                Wardrobe
+              <h3 className="text-center mt-4 text-3xl font-cinzel font-bold">
+                Kitchen
               </h3>
 
               <h4 className="mt-6 px-8 font-livvic text-xl text-center">
@@ -80,7 +80,7 @@ const WhatWeDo = () => {
               </h4>
 
               <div className="flex">
-                <button className="m-auto mt-12 bg-red-700 font-cinzel font-medium text-lg">
+                <button className="m-auto mt-12 bg-red-700 font-cinzel font-semibold text-lg text-white">
                   Learn More
                 </button>
               </div>
