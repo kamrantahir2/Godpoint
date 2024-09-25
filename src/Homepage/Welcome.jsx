@@ -1,13 +1,13 @@
 const Welcome = () => {
   return (
-    <div className="my-3">
+    <div className="my-24">
       <div className="w-5/12 h-1 bg-red-700 m-auto  rounded-full my-6"></div>
       <h2 className="text-4xl  text-center font-cinzel ">Welcome to </h2>
       <h2 className="font-cinzel text-center mb-8 ">
         <span className="font-cinzel text-6xl text-red-700">GodPoint </span>{" "}
         <span className="text-6xl font-medium">Businesses</span>
       </h2>
-      <div className=" m-auto mb-16">
+      <div className=" m-auto mb-16 p-24">
         <div className="text-center font-oswald font-light w-7/12 m-auto">
           <h3 className="text-4xl">
             Lorem ipsum dolor{" "}
