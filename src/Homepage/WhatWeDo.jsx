@@ -11,7 +11,7 @@ const WhatWeDo = () => {
             <h2 className="text-5xl font-semibold  m-auto my-8 font-cinzel">
               What We <span className="text-red-700 font-bold">Do</span>
             </h2>
-            <div className="w-5/12 bg-red-600 h-1 m-auto "></div>
+            <div className="w-5/12 bg-red-600 h-1 m-auto rounded-full"></div>
             <h3 className="text-3xl mt-24 m-auto w-8/12 leading-snug text-cinzel">
               Lorem ipsum dolor sit amet. Sed vero modi eum quas unde ut
               provident distinctio ut provident mollitia quo quaerat temporibus.
