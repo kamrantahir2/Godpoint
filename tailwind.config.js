@@ -10,6 +10,7 @@ export default {
         livvic: ["Livvic", "Arial", "sans-serif"],
         cinzel: ["Cinzel", "Arial", "sans-serif"],
         oswald: ["Oswald", "Arial", "sans-serif"],
+        raleway: ["Raleway", "Arial", "sans-serif"],
       },
     },
   },

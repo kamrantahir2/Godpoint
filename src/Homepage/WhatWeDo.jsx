@@ -2,10 +2,6 @@ const WhatWeDo = () => {
   return (
     <div className=" text-black border-t-4 pb-12 border-black">
       <div className=" ">
-        {/* <div className="w-full border-l-4 border-red-900">
-          {" "}
-          <img className="" src="./warehouse.jpg" alt="" />
-        </div> */}
         <div className=" order-first font-livvic">
           <div className=" text-center rounded-xl p-12 ">
             <h2 className="text-5xl font-semibold  m-auto my-8 font-cinzel">
@@ -29,7 +25,7 @@ const WhatWeDo = () => {
                 Wardrobe
               </h3>
 
-              <h4 className="mt-6 px-8 font-livvic text-xl text-center">
+              <h4 className="mt-6 px-8 font-raleway text-2xl text-center">
                 Lorem ipsum dolor sit amet. Sed vero modi eum quas unde ut
                 provident distinctio ut provident mollitia quo quaerat
                 temporibus.
@@ -51,7 +47,7 @@ const WhatWeDo = () => {
                 Furniture
               </h3>
 
-              <h4 className="mt-6 px-8 font-livvic text-xl text-center">
+              <h4 className="mt-6 px-8 font-raleway text-2xl text-center">
                 Lorem ipsum dolor sit amet. Sed vero modi eum quas unde ut
                 provident distinctio ut provident mollitia quo quaerat
                 temporibus.
@@ -73,7 +69,7 @@ const WhatWeDo = () => {
                 Kitchen
               </h3>
 
-              <h4 className="mt-6 px-8 font-livvic text-xl text-center">
+              <h4 className="mt-6 px-8 font-raleway text-2xl text-center">
                 Lorem ipsum dolor sit amet. Sed vero modi eum quas unde ut
                 provident distinctio ut provident mollitia quo quaerat
                 temporibus.
